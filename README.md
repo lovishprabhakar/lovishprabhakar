@@ -25,6 +25,12 @@
 </div>
 <br><br>
 
+<div align="center">
+ 
+ ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lovishprabhakar02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+</div>
+<br><div align="center"><hr align="center" width="70%"></div><br>
+
 <h1 align="center"> Wanna discuss anime?<img width="60" src="https://i.imgur.com/ip4SVXm.gif"> </h1>
   
 <div align="center">
