@@ -1,4 +1,4 @@
-<h1 align="center"> Annyeonghaseyo GitHub Fam! <img width='40' src="https://user-images.githubusercontent.com/89595539/146884706-849e211c-5931-4977-83b8-21992beb9215.png"></h1>
+<h1 align="center"> Annyeonghaseyo GitHub Fam!👋</h1>
 <div align='center'>
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/00/6c/6c/006c6c389f42f70ed2910c3bfadd3997.gif">
  </div>
