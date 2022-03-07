@@ -27,9 +27,9 @@
 
 <div align="center">
  
- ![Lovish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovishprabhakar&theme=great-gatsby&hide_border=true&show_icons=true)
+ ![Lovish's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovishprabhakar&theme=great-gatsby&hide_border=true&show_icons=true)
  
- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilovishprabhakar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+ ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lovishprabhakar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 </div>
 <br><div align="center"><hr align="center" width="70%"></div><br>
 
