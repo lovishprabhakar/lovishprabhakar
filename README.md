@@ -36,7 +36,7 @@
 <h1 align="center"> Wanna discuss stuff?<img width="60" src="https://i.imgur.com/ip4SVXm.gif"> </h1>
   
 <div align="center">
-  <a href="https://wa.me/917986486159"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  &nbsp; <a href="https://t.me/LovishP"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp; <a href="mailto:lovishprabhakar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://lovishprabhakar.is_a.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> &nbsp;  <a href="(https://www.instagram.com/lovishprabhakar/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://wa.me/917986486159"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  &nbsp; <a href="https://t.me/LovishP"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp; <a href="mailto:lovishprabhakar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://lovishprabhakar.is-a.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> &nbsp;  <a href="https://instagram.com/lovishprabhakar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>    
 </div>
 <br><br>
 
