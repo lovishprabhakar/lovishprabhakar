@@ -7,9 +7,10 @@
 <h1 align="center">  About me  </h1>
 
 ### - Life is a race so I am developing new skills to sustain.
-### - Learning :  <img width="420" src="https://c.tenor.com/tkHvqkeSq-oAAAAC/ken-kaneki-tokyo-ghoul.gif" align="right">
+### - Working on :  <img width="420" src="https://c.tenor.com/tkHvqkeSq-oAAAAC/ken-kaneki-tokyo-ghoul.gif" align="right">
 - ✨ Android Development
-- ✨ Front end development
+- ✨ Graphic Designing
+- ✨ Web Designing
 
 ### - Hobbies : 
 - ✨ Watching Anime
