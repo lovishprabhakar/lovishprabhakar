@@ -1,6 +1,6 @@
 <h1 align="center"> Annyeonghaseyo GitHub Fam!👋</h1>
 <div align='center'>
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/00/6c/6c/006c6c389f42f70ed2910c3bfadd3997.gif">
+<img width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/00/6c/6c/006c6c389f42f70ed2910c3bfadd3997.gif">
  </div>
 <br>
 <div>
@@ -11,6 +11,7 @@
 ✨ Android Development<br>
 ✨ Graphic Designing<br>
 ✨ Web Designing<br>
+✨ Data Structures and Algorithms<br>
 
 ### - Hobbies : 
 ✨ Watching Anime<br>
