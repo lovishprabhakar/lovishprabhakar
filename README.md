@@ -15,7 +15,7 @@
 ✨ Data Structures and Algorithms<br>
 
 ### - Hobbies : 
-✨ Programming
+✨ Programming<br>
 ✨ Reading Novels<br>
 ✨ Cricket (Gully Cricket Professional xD)<br>
 </div>
