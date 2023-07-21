@@ -8,13 +8,14 @@
 
 ### - Life is a race so I am developing new skills to sustain.
 ### - Working on :  <img width="420" src="https://c.tenor.com/tkHvqkeSq-oAAAAC/ken-kaneki-tokyo-ghoul.gif" align="right">
-✨ Android Development<br>
+✨ Machine Learning & Data Analysis<br>
+✨ Android App Development<br>
 ✨ Graphic Designing<br>
 ✨ Web Designing<br>
 ✨ Data Structures and Algorithms<br>
 
 ### - Hobbies : 
-✨ Watching Anime<br>
+✨ Programming
 ✨ Reading Novels<br>
 ✨ Cricket (Gully Cricket Professional xD)<br>
 </div>
