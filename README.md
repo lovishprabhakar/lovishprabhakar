@@ -8,7 +8,7 @@
 
 ### - Life is a race so I am developing new skills to sustain.
 
-<p><em>Student Intern at <a href="https://kpmg.com/in/en/home.html">KPMG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Analyst at <a href="https://kpmg.com/in/en/home.html">KPMG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### - Working on :  <img width="420" src="https://c.tenor.com/tkHvqkeSq-oAAAAC/ken-kaneki-tokyo-ghoul.gif" align="right">
